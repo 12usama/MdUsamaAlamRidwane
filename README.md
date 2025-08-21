@@ -1,4 +1,4 @@
 # Md Usama Alam Ridwane
 
-![Banner](./webDeveloper.png)
+![Banner](https://i.ibb.co.com/hJVQhxK5/Web-Developer.png)
 

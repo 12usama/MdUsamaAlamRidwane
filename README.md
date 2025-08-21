@@ -1,5 +1,5 @@
-# MdUsamaAlamRidwane
+# Md Usama Alam Ridwane
 
 <p align="center">
-  <img src="web developer.png" alt="Banner" />
+  <img src="webDeveloper.png" alt="Banner" />
 </p>

@@ -1,5 +1,5 @@
 # Md Usama Alam Ridwane
 
-![Banner](WebDeveloper.png)
+![Banner](https://raw.githubusercontent.com/username/repo/main/WebDeveloper.png)
 
 

@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=10000&color=F72B92&center=true&vCenter=true&lines=Hi+👋,+I'm+Md.+Usama+Alam+Ridwane" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=10000&color=F72B92&center=true&vCenter=true&lines=Hi+👋,+I'm+Md.+Usama+Alam+Ridwane" alt="Typing SVG" />
 </h1>
 <h3 align="left">Software Engineer | Web Developer | JavaScript Enthusiast</h3>
 

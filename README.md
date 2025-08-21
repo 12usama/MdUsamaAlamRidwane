@@ -2,11 +2,10 @@
 
 ![Banner](https://i.ibb.co.com/hJVQhxK5/Web-Developer.png)
 
+
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20👋,%20I'm%20Md.%20Usama%20Alam%20Ridwane&fontSize=32&fontColor=ffffff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F72B92&center=true&vCenter=true&lines=Hi+👋,+I'm+Md.+Usama+Alam+Ridwane;Software+Engineer;Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" />
 </h1>
-
-
 <h3 align="left">Software Engineer | Web Developer | JavaScript Enthusiast</h3>
 
 🌱 I’m currently learning **MERN Stack & Machine Learning**  

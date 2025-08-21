@@ -3,8 +3,9 @@
 ![Banner](https://i.ibb.co.com/hJVQhxK5/Web-Developer.png)
 
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Hi%20👋,%20I'm%20Md.%20Usama%20Alam%20Ridwane%20✨&width=800&height=100" alt="Hi 👋, I'm Md. Usama Alam Ridwane">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20👋,%20I'm%20Md.%20Usama%20Alam%20Ridwane&fontSize=32&fontColor=ffffff&animation=twinkling" />
 </h1>
+
 
 <h3 align="left">Software Engineer | Web Developer | JavaScript Enthusiast</h3>
 

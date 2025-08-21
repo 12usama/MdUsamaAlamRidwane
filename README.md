@@ -14,8 +14,18 @@
 
 - [Job Portal](https://job-portal-client-one-rust.vercel.app/) - MERN Stack based job search and application platform
 - [EntSeeker](https://entseeker.vercel.app/) - Entertainment platform with movies, sports, and more 
-- [CarZone](https://carzone-client.vercel.app/) - Car selling platform with Firebase Authentication  
+- [CarZone](https://carzone-client.vercel.app/) - Car selling platform with Firebase Authentication
+
+
+## 🛠️ Skills
+- Frontend: React, TailwindCSS, JavaScript  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Tools: Git, GitHub, Vercel  
+
   
+## 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/md-usama-alam-ridwane-376b3a1a4/)
 
 
 
